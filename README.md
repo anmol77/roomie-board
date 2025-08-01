@@ -13,9 +13,7 @@ A smart roommate management app built with React, TypeScript, and Supabase. Mana
 - **Activity Feed** - Track all recent activities
 - **Secure Authentication** - Email-based signup with password reset
 
-## 🚀 Live Demo
 
-[Deploy your own instance](#deployment) or check out the live demo.
 
 ## 🛠 Tech Stack
 
