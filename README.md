@@ -2,6 +2,8 @@
 
 A smart roommate management app built with React, TypeScript, and Supabase. Manage chores, bills, kitchen inventory, and noise considerations with your roommates in one place.
 
+Demo video here - https://www.youtube.com/watch?v=c7GrHeyzK5o
+
 ## ✨ Features
 
 - **Chore Management** - Assign and track household tasks
